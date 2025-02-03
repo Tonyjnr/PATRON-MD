@@ -121,6 +121,7 @@ apt apt install imagrmagick
 apt install bash
 git clone https://github.com/Itzpatron/PATRON-MD
 cd PATRON-MD
+yarn install
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
