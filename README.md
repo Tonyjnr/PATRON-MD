@@ -74,7 +74,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ygIOzvZS0z0?si=79yGQpgdIqa4Yt0U)
 
 ### ☁️ DEPLOY ON RENDER
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FItzpatron-Li%2FPATRON-MD)
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FTonyjnr-Li%2FPATRON-MD)
 
 ------------------
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@itzpatron1)
